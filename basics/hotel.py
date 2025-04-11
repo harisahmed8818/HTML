@@ -26,5 +26,3 @@ class Room:
             self.guest_name = None 
             self.check_in_date = None
             print(f"Room{self.room_number} is now available.")
-
-def class Room == main 
