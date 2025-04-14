@@ -1,4 +1,0 @@
-#The input() function displays a prompt and waits for the user to type something
-
-user_name = input("Enter your name :")
-print("Hello, " + user_name + "!" )  #Concatenates strings to form a greeting.
